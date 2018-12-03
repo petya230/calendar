@@ -1,0 +1,7 @@
+C:\Users\petya\source\repos\Naptar\Naptar\bin\Debug\Naptar.exe.config
+C:\Users\petya\source\repos\Naptar\Naptar\bin\Debug\Naptar.exe
+C:\Users\petya\source\repos\Naptar\Naptar\bin\Debug\Naptar.pdb
+C:\Users\petya\source\repos\Naptar\Naptar\obj\Debug\Naptar.csprojAssemblyReference.cache
+C:\Users\petya\source\repos\Naptar\Naptar\obj\Debug\Naptar.csproj.CoreCompileInputs.cache
+C:\Users\petya\source\repos\Naptar\Naptar\obj\Debug\Naptar.exe
+C:\Users\petya\source\repos\Naptar\Naptar\obj\Debug\Naptar.pdb
